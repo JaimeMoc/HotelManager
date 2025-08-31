@@ -14,7 +14,10 @@ HotelManager es un sistema de gestión de reservas de hotel desarrollado en Java
  El sistema está estructurado en capas siguindo buenas practicas de desarrollo. 
 
  1.- Modelo (POO) -> Clases como Usuario, Habitación, Reserva
+ 
  2.- DAO (Data Access Object) -> Conexión y operaciones con la base de datos. 
+ 
  3.- Servicios -> Lógica de negocio (validaciones de disponibilidad, creación y cancelación de reservas).
+ 
  4.- UI (Interfaz gráfica) -> Pantallas para la interacción gráfica con el usuario (login, registro, gestión de reservas).
 
